@@ -1,3 +1,3 @@
 # Mern Authentitaction
 
-1. Rename the file "**env.txt**" to "**.env**", and replace all environment variables values 
+# this project is 70% done, i will post a propre documentation once im done with it.. im busy with some work. im so sorry for the delay 
